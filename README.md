@@ -1,4 +1,4 @@
-#CarRental_Project
+# Patna-Car-Rental
 
 Online Car Rental Management System
 
